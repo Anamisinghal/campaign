@@ -1,0 +1,23 @@
+.item {
+    padding: 1em 2em;
+    border-bottom: 1px solid;
+    .item-index {
+        border-radius: 12px;
+        background: #007bff;
+        color: white;
+        padding: 0px 7px 2px;
+    }
+    .align-line {
+        line-height: 2.6;
+    }
+    .small-text {
+        font-size: 0.72em;
+    }
+    .buttons-section {
+        margin: 0 6px;
+    }
+}
+
+.deleted-item {
+    background: lightpink;
+}

@@ -1,0 +1,13 @@
+.title-section {
+    display: flex;
+    padding: 1em 1.8em;
+    .title {
+        display: flex;
+        flex: 0 0 10%;
+    }
+}
+.list-section {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 5px 0px 15px 5px #ececec
+}

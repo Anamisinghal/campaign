@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  .header {
+    padding: .6em 1.6em;
+    background: #e4f7fd;
+    justify-content: left;
+  }
+  .row {
+    margin-left: 0px;
+    margin-right: 0px; 
+  }
+  
+}
